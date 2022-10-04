@@ -1,6 +1,6 @@
 ## Hey, I'm Kris👋 Welcome to my Github!
 
-:red_circle: Currently looking for new opportunities within security research! If you have an opportunity please get in touch! :red_circle:
+:red_circle: Currently looking for new opportunities within security research and engineering! If you have an opportunity please get in touch! :red_circle:
 
 ### About Me
 * Resides in Seattle, WA :earth_americas:
