@@ -4,7 +4,7 @@
 
 ### About Me
 * Resides in Seattle, WA :earth_americas:
-* Security Researcher (Mostly applied but also enjoy foundational) 
+* Computer Security Researcher (Mostly applied but also enjoy foundational) 
 * Masters in Computer Security Fundamentals, Computer Science and Engineering at the University of South Florida 
 * 2x President of Whitehatters Computer Security Club at USF
 * Have work experience within academia, US national lab, small and large US Government contracting, and small commercial company     
@@ -28,12 +28,19 @@
 * Previous Teams: NASA-REjects:rocket:, BORG 
 
 ### Hobbies 
-* Espresso Creation 
-* Film and TV 
+* Espresso Creation :coffee: 
+* Film :film_projector: and TV :tv:
+  * Favorite film: [Top Gun (1986)](https://www.imdb.com/title/tt0092099/)
+  * Favorite TV Show: [Band of Brothers](https://www.imdb.com/title/tt0185906/?ref_=nv_sr_srsg_0) 
 * Tennis :tennis:
-* Formula1
-* Video Games
-* HomeLab
+  * ITF and Nationally ranked junior 10, 12, 16, and 18s (USTA Florida and Midwest)
+  * Favorite Player: [Marat Safin](https://en.wikipedia.org/wiki/Marat_Safin) 
+* Formula1 :checkered_flag:
+  * 2022 Season: Supporting the Tifosi! Scuderia Ferrari & Charles Leclerc
+* Video Games :video_game: 
+  * Favorite Video Game: [Metal Gear Solid](https://en.wikipedia.org/wiki/Metal_Gear_Solid_(1998_video_game))
+* HomeLab :lab_coat:
+  * Currently running [Unraid](https://github.com/unraid)
 
 ### Get in touch 💬
 
