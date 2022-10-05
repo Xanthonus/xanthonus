@@ -29,7 +29,7 @@
 
 ### Hobbies 
 * Espresso Creation :coffee:
-  * Check out my espresso logbook repo! [Espresso Logbook](https://github.com/Xanthonus/espresso_logbook)
+  * Check out my espresso logbook repo! [Espresso Logbook](https://github.com/Xanthonus/espresso_logbook/blob/main/README.md)
 * Film :film_projector: and TV :tv:
   * Favorite film: [Top Gun (1986)](https://www.imdb.com/title/tt0092099/)
   * Favorite TV Show: [Band of Brothers](https://www.imdb.com/title/tt0185906/?ref_=nv_sr_srsg_0) 
