@@ -1,7 +1,5 @@
 ## Hey, I'm Kris👋 Welcome to my Github!
 
-:red_circle: Currently looking for new opportunities within security research and engineering! If you have an opportunity please get in touch! :red_circle:
-
 ### About Me
 * Resides in Seattle, WA :earth_americas:
 * Computer Security Researcher (Mostly applied but also enjoy foundational) 
@@ -46,5 +44,3 @@
 ### Get in touch 💬
 
 - [Ask Me Anything](https://github.com/Xanthonus/AskMeAnything)
-- [Twitter](https://twitter.com/Xanthonus)
-- [LinkedIn](https://www.linkedin.com/in/xanthonus/)
