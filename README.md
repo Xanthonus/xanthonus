@@ -23,7 +23,7 @@
 ### Hacking Capture The Flag :triangular_flag_on_post:
 * Current Team: [Samurai](https://github.com/samuraictf) | [Shellphish](https://github.com/shellphish)
 * Alumni: [WCSC](https://github.com/WCSC)
-* Previous Teams: NASA-REjects:rocket:, BORG 
+* Previous Teams: NASA-REjects 🚀 , BORG 
 
 ### Get in touch 💬
 
